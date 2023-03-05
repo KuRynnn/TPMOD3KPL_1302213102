@@ -19,7 +19,7 @@ namespace tpmodul3_1302213102
 
         private void button1_MouseClick(object sender, MouseEventArgs e)
         {
-            this.label1.Text = "Halo " + this.textBox1.Text ;
+            this.label1.Text = "Hal " + this.textBox1.Text ;
         }
 
         private void textBox1_TextChanged(object sender, EventArgs e)
